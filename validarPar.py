@@ -1,5 +1,6 @@
 number = int(input("Ingrese numero a validar: "))
-if number > 0 :
+
+if (number% 2) == 0:
     print("El numero "+ str(number) + " es par")
-elif number < 0:
+else:
     print("El numero "+ str(number) + " es impar")
