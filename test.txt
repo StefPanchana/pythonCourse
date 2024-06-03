@@ -1,0 +1,4 @@
+Probando escritura en el archivo
+ Dios sabra!Nombre: Stef, Edad: 34, Dirección: Ecobosque
+
+Nombre: July, Edad: 34, Dirección: Ecobosque
