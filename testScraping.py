@@ -1,14 +1,25 @@
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
+import time
 
 url= "https://www.pycca.com/tecnologia/audio-y-video"
 
-response = requests.get(url)
+#Decorador para medir tiempo de ejecución
+def medir_tiempo(func):
+    def wrapper(*args, **kwargs):
+        inicio = time.time()
+        resultado = func(*args, **kwargs)
+        fin= time.time()
+        print(f"El tiempo de ejecucion de {__name__} : es de {fin-inicio:.4f} segundos")
+        return resultado
+    return wrapper
 
-if response.status_code == 200:
+@medir_tiempo
+def obtener_datos_productos(url):
+    response = requests.get(url)
+    
     soup= BeautifulSoup(response.text, 'html.parser')
-
     data = []
 
     items = soup.select(".productVitrine")
@@ -25,11 +36,12 @@ if response.status_code == 200:
                 "title": name,
                 "price": price
                 })
+            
+        if not name_element or not price_element:
+            continue
+    return data
 
-    print(data)
-    df = pd.DataFrame(data)
-    df.to_csv("scraper_products.csv", index=False)
-
-
-else:
-    print("Error al acceder a la página")
+@medir_tiempo
+def procesar_datos(products):
+    df = pd.DataFrame(products)
+    df
