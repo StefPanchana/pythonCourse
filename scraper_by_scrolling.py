@@ -51,6 +51,10 @@ def scrolling_execute(scroll_count, driver):
         initial_soup = BeautifulSoup(initial_html, "html.parser")
         items = initial_soup.select(".productVitrine")
         elements = process_data(items)
+
+    # Close the WebDriver
+    driver.quit()
+    # Return elements
     return elements
 
 @medir_tiempo
