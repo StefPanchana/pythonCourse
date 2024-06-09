@@ -1,13 +1,114 @@
-title,price
-Pilas Energeizer AAA x 2 Unidades,$2.34
-Audífonos Inalámbricos Energy Sistem Style 2 True Coconut,$40.90
-Parlante Mini 3 Pro Souncore,$60.86
-"Televisor Samsung The Serif QLED Smart TV 4K 55""","$1,303.48"
-Parlante Energy Sistem Urban 2 Onyx,$34.77
-Cámara GoPro Hero 6 Black 12 MP,$758.25
-Micrófono Inalámbrico Profesional Bazzuka UHF 2 Transmisor,$225.22
-Audífonos Inalámbricos Energy Sistem Sport 2 True Negro,$42.61
-"Televisor Samsung The Frame QLED Smart TV 4K 65""","$2,433.91"
-Parlante Energy Sistem Urban 2 Ocean,$34.77
-"Televisor Samsung QLED Smart TV 4K 85""","$4,312.17"
-Pilas Energeizer AA x 2 Unidades,$2.34
+,title,price
+0,Pilas Energeizer AAA x 2 Unidades,$2.69
+1,Audífonos Inalámbricos Energy Sistem Style 2 True Coconut,$47.04
+2,Parlante Mini 3 Pro Souncore,$69.99
+3,"Televisor Samsung The Serif QLED Smart TV 4K 55""",$1499.00
+4,Parlante Energy Sistem Urban 2 Onyx,$39.99
+5,Cámara GoPro Hero 6 Black 12 MP,$871.99
+6,Micrófono Inalámbrico Profesional Bazzuka UHF 2 Transmisor,$259.00
+7,Audífonos Inalámbricos Energy Sistem Sport 2 True Negro,$49.00
+8,"Televisor Samsung The Frame QLED Smart TV 4K 65""",$2799.00
+9,"Televisor Samsung QLED Smart TV 4K 85""",$4959.00
+10,Parlante Energy Sistem Urban 2 Ocean,$39.99
+11,Pilas Energeizer AA x 2 Unidades,$2.69
+12,"Televisor Samsung QLED Smart TV 4K 70""",$2518.99
+13,Parlante Energy Sistem Urban 5+ Space,$99.00
+14,Audífonos Inalámbricos Bazzuka X201 Blanco/Gris,$44.99
+15,Parlante Bazzuka Negro 3.000 Watts PMPO,$159.00
+16,"Televisor Samsung Neo QLED Smart TV 8K 85""",$9749.00
+17,Audífonos Inalámbricos Energy Sistem Urban 4 True Vainilla,$44.99
+18,"Televisor Prima Smart Neo/Web Os 65""",$999.01
+19,Parlante Portable Bazzuka Rojo 7.5 Watts RMS,$99.99
+20,Parlante Doble Indigo 16.000 Watts PMPO,$359.00
+21,Audífonos Inalámbricos Bazzuka X201 Negro/Verde,$44.99
+22,Parlante Portable Bazzuka Negro 7.5 Watts RMS,$99.99
+23,Audífonos Inalámbricos Energy Sistem Sport 1 Ocean,$29.99
+24,"Televisor Prima LED Smart TV 4K 55"" WebOs",$799.00
+25,Parlante Portable Bazzuka Negro con Naranja 5 Watts RMS,$48.99
+26,Cámara de Seguridad con Movimiento 2K Eufy,$92.99
+27,Audífonos Inalámbricos Maxell Halo EB-BT,$30.99
+28,Parlante Amplificado Bazzuka B515,$349.00
+29,Audífonos Alámbricos BWOO BO-HF12,$9.99
+30,Parlante Flare 2 Soundcore,$119.00
+31,"Televisor Prima LED UHD Smart TV 50""",$689.00
+32,Audífonos Alámbricos Energy Sistem Style 1 Talk Negro,$29.99
+33,Interruptor Nexxt Smart WIFI,$21.99
+34,Parlante Profesional Bazzuka Negro 350 Watts RMS,$409.00
+35,Audífonos Inalámbricos Maxell BT750,$26.88
+36,Parlante Bazzuka Negro 250 Watts RMS,$229.51
+37,Parlante Italy Audio Negro,$119.00
+38,Audífonos Inalámbricos Energy Sistem Style 7 True Navy,$140.00
+39,Foco de Filamento Nexxt Smart WIFI Ambar 110V,$19.00
+40,"Televisor Indurama Google TV 50""",$429.00
+41,"Televisor Indurama Google TV 65""",$999.01
+42,Enchufe Inteligente Nexxt 2 Tomas,$37.98
+43,"Televisor Indurama Google TV 58""",$652.97
+44,Audífonos Inalámbricos Maxell Rojo,$29.99
+45,Sensor de Seguridad Maxell MSS-DWS1,$29.99
+46,"Televisor Indurama Google Tv 43""",$499.00
+47,Micrófono Inalámbrico Bazzuka UHF 2 Transmisor,$119.00
+48,Sensor de Movimiento Inteligente Maxell,$39.00
+49,Smart IR Controller Maxell,$29.99
+50,"Televisor Samsung Smartv 4K 75""",$1285.00
+51,"Televisor Qled Samsung 4K Q80B 98""",$8498.99
+52,Audífonos Gamer Havit H139d,$17.99
+53,Audífonos Alámbricos BWOO BO-HF20,$7.00
+54,Audífonos con Cancelación de Ruido Soundcore,$124.99
+55,Audifonos Life Q10 Tipo Diadema Soundcore,$94.00
+56,Micrófono Inalámbrico Bazzuka UHF 1 Transmisor,$64.99
+57,Audífonos Alámbricos Energy Sistem DJ2 Blanco,$34.99
+58,Audífonos Lol&Roll Pop Kids Naranja,$7.99
+59,Audífonos Alámbricos Energy Sistem Style 1+ Menta,$9.99
+60,Audífonos Lol&Roll Pop Kids Azul,$7.99
+61,Audífonos Lol&Roll Pop Kids Rosado,$7.99
+62,Audífonos Alámbricos Sony MDRE9LP,$14.00
+63,Audífonos Alámbricos Maxell HP-200,$8.99
+64,Audífonos Inalámbricos Maxell EB-BT100,$20.99
+65,Audífonos Alámbricos Maxell IN-225,$5.99
+66,Audífonos Alámbricos BWOO BO-HF23,$11.01
+67,Audífonos Gamer Havit H2116D,$22.99
+68,Parlante Profesional Bazzuka Negro 500 Watts RMS,$739.99
+69,"Televisor Riviera LED 32""",$184.00
+70,"Televisor Motorola 50TMKUHD Google Tv 50""",$639.00
+71,"Televisor Motorola 43TMKFHD Google Tv 43""",$459.00
+72,"Televisor Pirma con android 32""",$259.00
+73,Audífonos Cubitt Gen2,$45.00
+74,Streaming Roku Express 4K Hdr Wifi Compatible Google/alexa Negro,$119.00
+75,Streaming Roku Express 4K Hdr Wifi  Compatible Google/alexa Negro,$99.00
+76,Parlante JBL Speaker Flip 6 BT Blue S. Ame,$135.00
+77,"Televisor Riviera LED UHD 4K 65""",$639.00
+78,Parlante Bazzuka Negro 50.000 Watts PMPO,$279.99
+79,Parlante JBL Speaker BT Boombox 3 Camouflaje,$499.00
+80,Audífonos Cubitt Gen2,$45.00
+81,Audífonos Cubitt,$50.00
+82,"Televisor Motorola 86TMKQLED Google Tv 86""",$1999.00
+83,"Televisor Motorola 65TMKQLED Google Tv 65""",$1099.00
+84,"Televisor Motorola 55TMKUHD Google Tv 55""",$799.00
+85,Audífonos JBL T500 Wired On-Ear Black S. Ame,$46.99
+86,Parlante Bazzuka Profesional P315W,$559.00
+87,Parlante Sudio S2 Inalámbrico Negro,$71.00
+88,Parlante Sudio S2 Inalámbrico Gris,$71.00
+89,Cerradura Kwikset Halo Smart con Código-250 Usuarios Táctil Historial Niquel Satinado,$284.00
+90,Cerradura Kwikset Halo Smart con Código-250 Usuarios Táctil Historial Negro Mate,$284.00
+91,Cerradura Kwikset Halo Smart 100 Huellas Dactilares Historial Niquel Satinado,$310.01
+92,Cerradura Kwikset Halo Smart 100 Huellas Dactilares Historial Negro Mate,$310.01
+93,Cámara Para Auto Geko 1.5 Pulg. Full Hd 132 1.5 Wifi Espejo Punto Ciego Negro,$133.99
+94,Audífonos Sudio N2 Pro Inalámbrico Estilo Tapon 10Mm Bt-Microf. Integr. 30H Dur. Usb-C Ipx4 Blanco,$140.00
+95,Audífonos Sudio A1 Pro Inalámbrico Estilo con cancelación de Ruido Purpura,$94.00
+96,Audífonos Sudio A1 Pro Inalámbrico Estilo con cancelación de Ruido Negro,$94.00
+97,Audífonos Sudio A1 Pro Inalámbrico Estilo con cancelación de Ruido Color Arena,$94.00
+98,Audífonos Sudio A1 Inalámbrico Estilo con cancelación de Ruido Purpura,$70.09
+99,Audífonos Sudio A1 Inalámbrico Estilo con cancelación de Ruido Negro,$70.09
+100,Audífonos Sudio A1 Inalámbrico Estilo con cancelación de Ruido Blanco,$70.09
+101,Audífonos Sudio A1 Inalámbrico Estilo con cancelación de Ruido Azul,$70.09
+102,Audífonos Skullcandy Jib In Ear W/Mic,$13.00
+103,Audífonos Skullcandy Push Active True Wireless In Ear,$159.00
+104,Audífonos Skullcandy Mod True Wireless In Ear,$99.00
+105,Audífonos Skullcandy Hesh Evo Wireless Over-Ear,$159.00
+106,Audífonos Skullcandy Hesh Anc Wireless Over-Ear,$229.00
+107,Audífonos Skullcandy Jib True Wireless In Ear,$69.99
+108,Audífonos Skullcandy Dime True Wireless In Ear,$60.00
+109,Audífonos Devia con Micrófono Blanco,$7.99
+110,Timbre inteligente con cámara y conexión Wi-Fi,$109.00
+111,Cámara inteligente Wi-Fi con reflectores y detector de movimiento integrados,$149.99
+112,Audífonos JBL Headphone T500 Wired On-ear Azul,$39.99
